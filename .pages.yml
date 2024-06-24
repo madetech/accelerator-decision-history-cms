@@ -5,6 +5,8 @@ content:
   - name: posts
     label: Posts
     path: src/_posts
+    view: 
+      fields: [title, date]
     type: collection
     fields:
       - { name: title, label: Title, type: string }
