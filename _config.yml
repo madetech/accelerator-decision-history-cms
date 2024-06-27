@@ -2,13 +2,11 @@
 # Site configuration #
 ######################
 
-title: DLUHC ARM Design History
+title: DLUHC QRM Decision History
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/jekyll-blog" # the subpath of your site, e.g. /blog
+  This is the decision history for the DLUHC Quality Remidation Marketplace workstream
+baseurl: "/dluhc-qrm-design-history" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 ##################
@@ -27,8 +25,8 @@ sass:
 ######################
 header:
   type: "service-name-with-navigation" # Set to "default", "service-name" or "service-name-with-navigation" to change the header
-  site-name: "GovLike" # Appears in the header, regardless of style
-  service-name: "Jekyll theme" # Appears in the header, if site.header.type is set to "service-name" or "service-name-with-navigation"
+  site-name: "DLUHC QRM Decision History" # Appears in the header, regardless of style
+  service-name: "DLUHC QRM Decision History" # Appears in the header, if site.header.type is set to "service-name" or "service-name-with-navigation"
   links:
   # - name: "Page title"
   #   url: "/"
