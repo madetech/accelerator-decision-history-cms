@@ -1,2 +1,2 @@
-##Jekyll / PAGE CSM Template
+##Jekyll / PAGE CMS Template
 
