@@ -90,7 +90,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
