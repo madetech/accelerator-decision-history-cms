@@ -1,4 +1,6 @@
-# GOV UK Design / Decision History
+# Accelerator - GOV UK Design / Decision History
+
+This is now one of the our Accelerators and comes under the category of tools.
 
 This repository is a template to set up a [Design / Decision History](https://x-govuk.github.io/govuk-design-history/introduction/#:~:text=A%20design%20history%20can%20help,the%20team%20and%20others%20leave.https:/) fast!
 It is based on the practise of compiling a complex set of pages into a simple static page that techincal and non technical users can use alike. This solution is not suitable for Design / Decision historys that need to remain private. Github pages are public by nature.
